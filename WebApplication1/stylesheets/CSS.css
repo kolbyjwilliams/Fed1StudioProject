@@ -39,3 +39,8 @@ body{
     background-color:#114f11;
     color:whitesmoke;
 }
+#contactinfo{
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+    padding:8px;
+}
